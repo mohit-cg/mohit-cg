@@ -5,7 +5,7 @@ Welcome to my portfolio website! This README file provides a brief overview of w
 
 ## About Me
 
-I'm Mohit Kumar, a developer passionate about creating interactive and visually appealing experiences. This portfolio website showcases some of my projects and gives you a glimpse into my skills and interests.
+I'm Mohit Kumar, an Android developer passionate about creating interactive and visually appealing experiences. This portfolio website showcases some of my projects and gives you a glimpse into my skills and interests.
 
 ## Website Structure
 
