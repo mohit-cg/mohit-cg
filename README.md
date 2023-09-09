@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.instagram.com/mohit_cg" target="_blank"> <img src="https://img.shields.io/badge/Follow-%40mohit--cg-%23bc2a8d?style=for-the-badge&logo=instagram" alt="mohit-cg" /> </a> </p>
 
-- 🔭 I’m currently working on **my Portfolio app**
+- 🔭 I’m currently working on **My Portfolio app**
 
 - 🌱 I’m currently learning **Android Development, Kotlin, etc.**
 
